@@ -76,7 +76,7 @@
             "location": "New York",
             "performanceRating": 4.6,
             "projectsCompleted": 18,
-            "isActive": true,
+            "isActive": false,
             "skills": [
                 "Team Leadership",
                 "Architecture",
